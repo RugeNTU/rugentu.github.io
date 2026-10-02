@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Microsoft Office lock/temp files
+~$*
+
+# CV 源文件（只用于本地编辑导出 PDF，不提交）
+*.docx
